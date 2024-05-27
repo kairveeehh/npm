@@ -1,9 +1,9 @@
 {
-  "name": "kairvee",
+  "name": "kairveetech",
   "version": "1.0.1",
   "description": "A brief description of your package",
   "main": "index.js",  "bin": {
-    "kairvee": "./index.js"
+    "kairveetech": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
